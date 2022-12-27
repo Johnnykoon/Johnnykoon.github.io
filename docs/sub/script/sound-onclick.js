@@ -28,3 +28,15 @@ if (document.all){document.all.sound.src = "click.mp3";}
 
 else {{var audio = document.getElementById("Johnnykoon_113");audio.play();}}
 }
+
+function playclip_06() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_112");audio.play();}}
+}
+
+function playclip_07() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_111");audio.play();}}
+}
