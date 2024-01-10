@@ -95,67 +95,6 @@ Amplitude.init({
 			"album": "英文單字強",
 			"url": "sub/audio/158.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
-		},
-		{ 
-			"name": "pick and choose", 
-			"album": "英文單字強", 
-			"url": "sub/audio/157.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "fill someone in", 
-			"album": "英文單字強", 
-			"url": "sub/audio/156.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "deal-breaker", 
-			"album": "英文單字強", 
-			"url": "sub/audio/155.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "up-and-coming", 
-			"album": "英文單字強", 
-			"url": "sub/audio/154.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "spell out", 
-			"album": "英文單字強", 
-			"url": "sub/audio/153.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "bricks-and-mortar store", 
-			"album": "英文單字強", 
-			"url": "sub/audio/152.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "unsung hero", 
-			"album": "英文單字強", 
-			"url": "sub/audio/151.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "Monday-morning quarterback", 
-			"album": "英文單字強", 
-			"url": "sub/audio/150.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "touch on", 
-			"album": "英文單字強", 
-			"url": "sub/audio/149.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "A-game", 
-			"album": "英文單字強", 
-			"url": "sub/audio/148.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-
+		}
 	]
 });

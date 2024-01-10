@@ -60,102 +60,63 @@ Amplitude.init({
 	continue_next: false,
 	
 	"songs": [
+		{
+			"name": "108",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/108.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "109",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/109.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
 		
 		{
-			"name": "in the equation",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/162.mp3",
+			"name": "110",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/110.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "have a good feeling about",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/161.mp3",
+			"name": "111",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/111.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "wafer-thin",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/160.mp3",
+			"name": "112",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/112.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "name-drop",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/159.mp3",
+			"name": "113",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/113.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "back-pedal",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/158.mp3",
+			"name": "114",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/114.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
-		{ 
-			"name": "pick and choose", 
-			"album": "英文單字強", 
-			"url": "sub/audio/157.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "fill someone in", 
-			"album": "英文單字強", 
-			"url": "sub/audio/156.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "deal-breaker", 
-			"album": "英文單字強", 
-			"url": "sub/audio/155.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "up-and-coming", 
-			"album": "英文單字強", 
-			"url": "sub/audio/154.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "spell out", 
-			"album": "英文單字強", 
-			"url": "sub/audio/153.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "bricks-and-mortar store", 
-			"album": "英文單字強", 
-			"url": "sub/audio/152.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "unsung hero", 
-			"album": "英文單字強", 
-			"url": "sub/audio/151.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "Monday-morning quarterback", 
-			"album": "英文單字強", 
-			"url": "sub/audio/150.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "touch on", 
-			"album": "英文單字強", 
-			"url": "sub/audio/149.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "A-game", 
-			"album": "英文單字強", 
-			"url": "sub/audio/148.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-
+		{
+			"name": "115",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/115.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		}
+		
 	]
 });
