@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 		
 		{
+			"name": "big heart",
+			"album": "英文單字強",
+			"url": "sub/audio/166.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "zero in on",
 			"album": "英文單字強",
 			"url": "sub/audio/165.mp3",
