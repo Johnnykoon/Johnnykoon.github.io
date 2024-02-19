@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 		
 		{
+			"name": "quantum leap",
+			"album": "英文單字強",
+			"url": "sub/audio/167.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "big heart",
 			"album": "英文單字強",
 			"url": "sub/audio/166.mp3",
