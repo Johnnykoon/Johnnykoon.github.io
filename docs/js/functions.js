@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 		
 		{
+			"name": "do a 180",
+			"album": "英文單字強",
+			"url": "sub/audio/170.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "take shape",
 			"album": "英文單字強",
 			"url": "sub/audio/169.mp3",
