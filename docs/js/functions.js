@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 		
 		{
+			"name": "make or break",
+			"album": "英文單字強",
+			"url": "sub/audio/173.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "put something behind someone",
 			"album": "英文單字強",
 			"url": "sub/audio/172.mp3",
