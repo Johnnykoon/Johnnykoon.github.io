@@ -68,9 +68,33 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "put something behind someone",
+			"name": "make-or-break",
+			"album": "英文單字強",
+			"url": "sub/audio/173_2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "high-stakes",
+			"album": "英文單字強",
+			"url": "sub/audio/173_3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "put behind (1)",
 			"album": "英文單字強",
 			"url": "sub/audio/172.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "put behind (2)",
+			"album": "英文單字強",
+			"url": "sub/audio/172_2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "put behind (3)",
+			"album": "英文單字強",
+			"url": "sub/audio/172_3.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
