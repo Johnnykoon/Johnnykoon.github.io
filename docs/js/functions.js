@@ -4,8 +4,8 @@
 */
 let bandcampLinks = document.getElementsByClassName('bandcamp-link');
 
-for( var i = 0; i < bandcampLinks.length; i++ ){
-	bandcampLinks[i].addEventListener('click', function(e){
+for (var i = 0; i < bandcampLinks.length; i++) {
+	bandcampLinks[i].addEventListener('click', function (e) {
 		e.stopPropagation();
 	});
 }
@@ -13,17 +13,17 @@ for( var i = 0; i < bandcampLinks.length; i++ ){
 
 let songElements = document.getElementsByClassName('song');
 
-for( var i = 0; i < songElements.length; i++ ){
+for (var i = 0; i < songElements.length; i++) {
 	/*
 		Ensure that on mouseover, CSS styles don't get messed up for active songs.
 	*/
-	songElements[i].addEventListener('mouseover', function(){
+	songElements[i].addEventListener('mouseover', function () {
 		this.style.backgroundColor = '#00A0FF';
 
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#FFFFFF';
 		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#FFFFFF';
 
-		if( !this.classList.contains('amplitude-active-song-container') ){
+		if (!this.classList.contains('amplitude-active-song-container')) {
 			this.querySelectorAll('.play-button-container')[0].style.display = 'block';
 		}
 
@@ -35,7 +35,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	/*
 		Ensure that on mouseout, CSS styles don't get messed up for active songs.
 	*/
-	songElements[i].addEventListener('mouseout', function(){
+	songElements[i].addEventListener('mouseout', function () {
 		this.style.backgroundColor = '#FFFFFF';
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#272726';
 		this.querySelectorAll('.song-meta-data .song-artist')[0].style.color = '#607D8B';
@@ -48,7 +48,7 @@ for( var i = 0; i < songElements.length; i++ ){
 	/*
 		Show and hide the play button container on the song when the song is clicked.
 	*/
-	songElements[i].addEventListener('click', function(){
+	songElements[i].addEventListener('click', function () {
 		this.querySelectorAll('.play-button-container')[0].style.display = 'none';
 	});
 }
@@ -58,9 +58,15 @@ for( var i = 0; i < songElements.length; i++ ){
 */
 Amplitude.init({
 	continue_next: false,
-	
+
 	"songs": [
-		
+
+		{
+			"name": "underhanded",
+			"album": "英文單字強",
+			"url": "sub/audio/174.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
 		{
 			"name": "make or break",
 			"album": "英文單字強",
@@ -163,66 +169,66 @@ Amplitude.init({
 			"url": "sub/audio/158.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
-		{ 
-			"name": "pick and choose", 
-			"album": "英文單字強", 
-			"url": "sub/audio/157.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "fill someone in", 
-			"album": "英文單字強", 
-			"url": "sub/audio/156.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "deal-breaker", 
-			"album": "英文單字強", 
-			"url": "sub/audio/155.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "up-and-coming", 
-			"album": "英文單字強", 
-			"url": "sub/audio/154.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "spell out", 
-			"album": "英文單字強", 
-			"url": "sub/audio/153.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "bricks-and-mortar store", 
-			"album": "英文單字強", 
-			"url": "sub/audio/152.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "unsung hero", 
-			"album": "英文單字強", 
-			"url": "sub/audio/151.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "Monday-morning quarterback", 
-			"album": "英文單字強", 
-			"url": "sub/audio/150.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "touch on", 
-			"album": "英文單字強", 
-			"url": "sub/audio/149.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
-		{ 
-			"name": "A-game", 
-			"album": "英文單字強", 
-			"url": "sub/audio/148.mp3", 
-			"cover_art_url": "sub/image/music-streaming.png" 
-		}, 
+		{
+			"name": "pick and choose",
+			"album": "英文單字強",
+			"url": "sub/audio/157.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "fill someone in",
+			"album": "英文單字強",
+			"url": "sub/audio/156.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "deal-breaker",
+			"album": "英文單字強",
+			"url": "sub/audio/155.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "up-and-coming",
+			"album": "英文單字強",
+			"url": "sub/audio/154.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "spell out",
+			"album": "英文單字強",
+			"url": "sub/audio/153.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "bricks-and-mortar store",
+			"album": "英文單字強",
+			"url": "sub/audio/152.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "unsung hero",
+			"album": "英文單字強",
+			"url": "sub/audio/151.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "Monday-morning quarterback",
+			"album": "英文單字強",
+			"url": "sub/audio/150.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "touch on",
+			"album": "英文單字強",
+			"url": "sub/audio/149.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "A-game",
+			"album": "英文單字強",
+			"url": "sub/audio/148.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
 
 	]
 });
