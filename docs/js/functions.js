@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "safe and sound",
+			"album": "英文單字強",
+			"url": "sub/audio/175.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "underhanded",
 			"album": "英文單字強",
 			"url": "sub/audio/174.mp3",
