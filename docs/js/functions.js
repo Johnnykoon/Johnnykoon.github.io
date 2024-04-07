@@ -62,12 +62,6 @@ Amplitude.init({
 	"songs": [
 
 		{
-			"name": "sweeping",
-			"album": "英文單字強",
-			"url": "sub/audio/176.mp3",
-			"cover_art_url": "sub/image/music-streaming.png"
-		},
-		{
 			"name": "safe and sound",
 			"album": "英文單字強",
 			"url": "sub/audio/175.mp3",
