@@ -62,6 +62,12 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "feel at home",
+			"album": "英文單字強",
+			"url": "sub/audio/177.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "sweeping",
 			"album": "英文單字強",
 			"url": "sub/audio/176.mp3",
