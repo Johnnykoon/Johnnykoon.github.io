@@ -62,6 +62,24 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "loving",
+			"album": "英文單字強",
+			"url": "sub/audio/180-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "powerhouse/professionalism/loving",
+			"album": "英文單字強",
+			"url": "sub/audio/180-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "draw/caring/good nature",
+			"album": "英文單字強",
+			"url": "sub/audio/180-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "push",
 			"album": "英文單字強",
 			"url": "sub/audio/179.mp3",
