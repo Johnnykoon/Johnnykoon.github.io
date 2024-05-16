@@ -62,6 +62,24 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "run something by someone",
+			"album": "英文單字強",
+			"url": "sub/audio/181-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "go it alone/run by/loop someone in",
+			"album": "英文單字強",
+			"url": "sub/audio/181-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "run by/on someone's part/mix-up",
+			"album": "英文單字強",
+			"url": "sub/audio/181-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "loving",
 			"album": "英文單字強",
 			"url": "sub/audio/180-1.mp3",
