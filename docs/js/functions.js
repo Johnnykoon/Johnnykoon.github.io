@@ -62,6 +62,24 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "in office",
+			"album": "英文單字強",
+			"url": "sub/audio/182-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "outgoing/introduce/<br>compensation/shake up",
+			"album": "英文單字強",
+			"url": "sub/audio/182-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "in company/overload/touch",
+			"album": "英文單字強",
+			"url": "sub/audio/182-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "run something by someone",
 			"album": "英文單字強",
 			"url": "sub/audio/181-1.mp3",
