@@ -76,7 +76,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "rush into/put on hold/perfect",
+			"name": "misgiving/rush into/<br>put on hold/perfect",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/183-3.mp3",
