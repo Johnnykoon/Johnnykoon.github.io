@@ -62,151 +62,197 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "reservation",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/183-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "practice/forthcoming/source",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/183-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "rush into/put on hold/perfect",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/183-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "in office",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/182-1.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "outgoing/introduce/<br>compensation/shake up",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/182-2.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "in company/overload/touch",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/182-3.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "run something by someone",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/181-1.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "go it alone/run by/loop someone in",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/181-2.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "run by/on someone's part/mix-up",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/181-3.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "loving",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/180-1.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "powerhouse/professionalism/loving",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/180-2.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "draw/caring/good nature",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/180-3.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "push",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/179.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "hardball",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/178.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "feel at home",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/177.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "sweeping",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/176.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "safe and sound",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/175.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "underhanded",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/174.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "make or break",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/173.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "put something behind someone",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/172.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "play second fiddle",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/171.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "do a 180",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/170.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "take shape",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/169.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "have the final word",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/168.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "quantum leap",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/167.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "big heart",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/166.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "zero in on",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/165.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "drag sb.'s name through the mud",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/164.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
@@ -255,60 +301,70 @@ Amplitude.init({
 		},
 		{
 			"name": "pick and choose",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/157.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "fill someone in",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/156.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "deal-breaker",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/155.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "up-and-coming",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/154.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "spell out",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/153.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "bricks-and-mortar store",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/152.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "unsung hero",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/151.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "Monday-morning quarterback",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/150.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "touch on",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/149.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
 			"name": "A-game",
+			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/148.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
