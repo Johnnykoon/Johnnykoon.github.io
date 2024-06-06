@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "pat",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/184-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "make peace/do one's part",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/184-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "press/pat answer/<br>self-reliance/best friend",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/184-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "reservation",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
