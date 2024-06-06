@@ -62,7 +62,7 @@ Amplitude.init({
 	"songs": [
 
 		{
-			"name": "pat",
+			"name": "give someone a pat on the back",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/184-1.mp3",
