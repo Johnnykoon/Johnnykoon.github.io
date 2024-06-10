@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "overhead",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/185-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "hold the purse strings/review/<br>tighten up",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/185-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "runaround/go over someone's head/<br>a phone call away",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/185-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "give someone a pat on the back",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
