@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "put someone down",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/186-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "heavy-handed/call...on/<br>speak for itself",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/186-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "self-starter/on the lookout for/<br>better",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/186-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "overhead",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
