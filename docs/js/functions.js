@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "flip-flop",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/187-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "all set/go around in circles",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/187-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "flop/blank stares/<br>regroup/come back",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/187-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "put someone down",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
