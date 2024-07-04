@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "passport to something",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/188-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "overlook/level up/<br>once-in-a-lifetime",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/188-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "upskill/ever-changing/lifelong",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/188-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "flip-flop",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
