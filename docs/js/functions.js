@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "feel the heat",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/189-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "drill into/meet/under-deliver/<br>isn't an option",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/189-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "argumentative/snap/<br>in the heat of the moment/cool of/<br>behind someone",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/189-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "passport to something",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
