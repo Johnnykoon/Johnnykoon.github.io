@@ -69,7 +69,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "drill into/meet/under deliver/<br>isn't an option",
+			"name": "drill into/meet/underdeliver/<br>isn't an option",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/189-2.mp3",
