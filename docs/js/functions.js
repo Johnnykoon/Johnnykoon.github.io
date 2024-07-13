@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "on someone’s head",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/190-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "work out/tight-knit/<br>have someone's back",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/190-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "break into/on someone's shoulders/<br>naysayer",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/190-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "feel the heat",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
