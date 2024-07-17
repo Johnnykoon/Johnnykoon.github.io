@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "surefire",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/191-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "arm/golden opportunity/pioneer",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/191-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "misfire/pool/talent/winning",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/191-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "on someone’s head",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
