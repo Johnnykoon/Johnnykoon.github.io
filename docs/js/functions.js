@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "storm out",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/192-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "contain/heated",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/192-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "conflict/slip out/pop up",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/192-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "surefire",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
