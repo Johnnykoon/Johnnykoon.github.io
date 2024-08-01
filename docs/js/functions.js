@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "ping-pong",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/193-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "pick someone's brain/stick/<br>workable",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/193-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "catch/backhanded/<br>laugh something off",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/193-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "storm out",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
