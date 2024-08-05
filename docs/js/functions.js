@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "titleholder",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/194-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "underdog/in a big way",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/194-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "entitled/mistreat/stand by",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/194-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "ping-pong",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
