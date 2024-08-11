@@ -202,7 +202,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "argumentative/snap/<br>in the heat of the moment/cool of/<br>behind someone",
+			"name": "argumentative/snap/<br>in the heat of the moment/cool off/<br>behind someone",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/189-3.mp3",
