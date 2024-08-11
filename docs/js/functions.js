@@ -62,6 +62,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "put up a good fight",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/195-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "uphill battle/hold one's head high",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/195-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "pick a fight/channel/ill feeling/<br>advance",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/195-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "titleholder",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
