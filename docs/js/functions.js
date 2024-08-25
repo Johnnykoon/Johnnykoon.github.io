@@ -10,7 +10,7 @@ for (var i = 0; i < bandcampLinks.length; i++) {
 let songElements = document.getElementsByClassName('song');
 
 for (var i = 0; i < songElements.length; i++) {
-	
+
 	songElements[i].addEventListener('mouseover', function () {
 		this.style.backgroundColor = '#00A0FF';
 
@@ -26,7 +26,7 @@ for (var i = 0; i < songElements.length; i++) {
 		this.querySelectorAll('.song-duration')[0].style.color = '#FFFFFF';
 	});
 
-	
+
 	songElements[i].addEventListener('mouseout', function () {
 		this.style.backgroundColor = '#FFFFFF';
 		this.querySelectorAll('.song-meta-data .song-title')[0].style.color = '#272726';
@@ -37,7 +37,7 @@ for (var i = 0; i < songElements.length; i++) {
 		this.querySelectorAll('.song-duration')[0].style.color = '#607D8B';
 	});
 
-	
+
 	songElements[i].addEventListener('click', function () {
 		this.querySelectorAll('.play-button-container')[0].style.display = 'none';
 	});
@@ -49,6 +49,27 @@ Amplitude.init({
 
 	"songs": [
 
+		{
+			"name": "money talks",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/197-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "throw money at sth./deep pockets",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/197-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "put one's money where one's mouth is/empty promise/big talk",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/197-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
 		{
 			"name": "ghost",
 			"artist": "Johnnykoon",
