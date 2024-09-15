@@ -64,7 +64,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "healthy competition/make it big",
+			"name": "healthy competition/<br>a slice of the cake/<br>make it big",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/199-3.mp3",
