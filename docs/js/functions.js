@@ -50,6 +50,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "have one's cake and eat it too",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/199-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "angle for/all-inclusive/<br>budget-friendly",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/199-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "healthy competition/make it big",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/199-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "free ride",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
