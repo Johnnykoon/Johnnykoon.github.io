@@ -50,6 +50,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "hard-and-fast",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/200-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stick to/judicious",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/200-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "quick-and-dirty/fix/<br>work on/polished",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/200-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "have one's cake and eat it too",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
