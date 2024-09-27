@@ -50,6 +50,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "educated guess",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/201-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "insight/big thing",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/201-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "learned/forward-thinking/figure",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/201-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "hard-and-fast",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
