@@ -50,6 +50,27 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "fair-weather friend",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/202-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "fair-weather customers/<br>loyal-to-the-bone/<br>advocate",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/202-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "clam up/flow/<br>buddy-buddy/crew",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/202-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "educated guess",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
