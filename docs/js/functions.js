@@ -57,7 +57,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "fair-weather customers/<br>loyal-to-the-bone/<br>advocate",
+			"name": "fair-weather customer/<br>loyal-to-the-bone/<br>advocate",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/202-2.mp3",
