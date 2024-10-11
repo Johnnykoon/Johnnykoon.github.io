@@ -50,6 +50,41 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "fireworks",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/203-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "action plan/backfire",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/203-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "short-lived/ever-lasting",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/203-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "fence-sitter",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/203-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "ever-changing",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/203-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "fair-weather friend",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
