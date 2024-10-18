@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "yes-person",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "take/straight shooter",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "naysayer/pick holes/shoot down",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "I take your point",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "pick holes",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "shoot down",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/204-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "fireworks",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
