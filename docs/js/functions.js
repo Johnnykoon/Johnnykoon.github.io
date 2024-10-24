@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "whatnot",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "in good supply/count",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "haves and have-nots/deliver",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "in short supply",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "count",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "deliver on",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "deliver on",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/205-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "yes-person",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
