@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "come out",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "go one's way",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "nail-biting",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "outcome/nail-biter",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "come out of one's shell/<br>won't bite",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "won't bite",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/206-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "whatnot",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
