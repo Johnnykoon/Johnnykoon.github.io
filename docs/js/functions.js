@@ -50,6 +50,62 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "good sport",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "fall short/good loser/<br>come back",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "gracious winner/push/runaway",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "be after sth.",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "fall short",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "comeback",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "push",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "runaway",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/207-8.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "come out",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
