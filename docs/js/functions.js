@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "blow up",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "go live/buzz",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "call someone names/blow up",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "break",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "go live",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "buzz",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "name-calling",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/208-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "good sport",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
