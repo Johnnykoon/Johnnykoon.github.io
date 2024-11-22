@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "heavy hitter",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "corner the market/score big",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "take turns/heavy lifting/legwork",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "corner",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "take turns",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "legwork/not lift a finger",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/209-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "blow up",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
