@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "hit someone hard",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "truth bomb/process/collect oneself",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "bitter/hard to swallow/<br>fuel/drive",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "bombshell/departure",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "process/collect one's thoughts",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "driver",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/210-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "heavy hitter",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
