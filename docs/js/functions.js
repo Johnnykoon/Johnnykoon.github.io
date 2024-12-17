@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "murky waters",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "knee-deep/mudslinging",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "get into hot water/dive in/<br>make a splash",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "knee-deep",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "mudslinger",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "make a splash",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/211-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "hit someone hard",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
