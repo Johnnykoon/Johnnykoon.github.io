@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "horizon",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "trying/daylight",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "horizons/break through/<br>self-imposed",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "horizon",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "break through",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "impose",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "self-imposed",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/212-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "murky waters",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
