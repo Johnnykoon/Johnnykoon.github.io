@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "play the blame game",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "shift responsibility/overrun/raise",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "pass the hot potato/grow a spine/own",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "overrun",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "raise",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "hot potato",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "own",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/213-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "horizon",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
