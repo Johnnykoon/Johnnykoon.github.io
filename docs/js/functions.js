@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "the party's over",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "the party's over/<br>beat the deadline",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "holiday hangover/banner year",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "get real",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "beat the deadline",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "hangover",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "banner year",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/214-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "play the blame game",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
