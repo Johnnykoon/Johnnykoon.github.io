@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "short and sweet",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "short and sweet/in-depth",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "drawn-out/rehash",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "depth",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "in depth",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "deep",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "rehash",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/215-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "the party's over",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
