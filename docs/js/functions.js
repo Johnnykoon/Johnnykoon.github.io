@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "scroll-stopper",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "scroll-stopper/delivery/dry",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "jargon-heavy/page-turner",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "scroll",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "delivery",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "math-heavy",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "jargon-light/reader-friendly",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/216-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "short and sweet",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
