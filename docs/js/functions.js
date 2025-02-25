@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "highball",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "quote/way/market rate",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "lowball/ultimatum/stand by/<br>walkaway point",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "quote",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "way",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stand by",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "walkaway point",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/217-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "scroll-stopper",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
