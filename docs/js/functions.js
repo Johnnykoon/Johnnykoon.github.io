@@ -50,6 +50,69 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "cookie-cutter",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stick to/outdated",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stuck in one's ways/flexible/<br>accommodating",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "can't cut it",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stick to",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "stuck",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "flexible",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "accommodate",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-8.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "accommodating/pushover",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/218-9.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "highball",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
