@@ -50,6 +50,48 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "double-talk",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "upfront",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "straight talk/play dumb",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "upfront",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "up front",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "play the know-it-all",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/219-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "cookie-cutter",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
