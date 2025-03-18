@@ -64,7 +64,7 @@ Amplitude.init({
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "cold-eyed/<br>send a chill down someone's spines",
+			"name": "cold-eyed/<br>send a chill down someone's spine",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
 			"url": "sub/audio/220-3.mp3",
