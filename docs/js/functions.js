@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "cold shoulder",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "give someone the cold shoulder/<br>snow under",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "cold-eyed/<br>send chills down someone's spines",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "snow under",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "chilling",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "chill",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "chill/know one's stuff",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/220-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "double-talk",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
