@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "take stock",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "step back/take stock of oneself/<br>way forward",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "take the plunge/go all out",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "in stock",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "out of stock",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "go all in",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "all-out",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/221-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "cold shoulder",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
