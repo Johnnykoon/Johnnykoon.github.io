@@ -50,6 +50,55 @@ Amplitude.init({
 	"songs": [
 
 		{
+			"name": "throw one's weight around",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-1.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "push for",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-2.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "put one's weight behind/<br>pick up speed/gain momentum",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-3.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "heavyweight",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-4.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "push for",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-5.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "pick up speed",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-6.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "gain momentum",
+			"artist": "Johnnykoon",
+			"album": "英文單字強",
+			"url": "sub/audio/222-7.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
 			"name": "take stock",
 			"artist": "Johnnykoon",
 			"album": "英文單字強",
